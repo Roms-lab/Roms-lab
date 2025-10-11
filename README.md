@@ -1,14 +1,9 @@
-## Zach
-Hello there peoples!
-
-I am 16 years old and I love programming :P
-
-I am a Programmer/Hacker/Game Porter
-
 ## Most used languages
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/04c8091a-6462-4cf1-92c8-a4cbe8a5e7de" />
+<img width="212" height="238" alt="image" src="https://github.com/user-attachments/assets/59af129e-a248-46ae-abd2-41b0b14c16d9" />
 
-<img width="165" height="148" alt="image" src="https://github.com/user-attachments/assets/8bf0c8af-0d94-4863-b686-3eb9517a3edb" />
+## Fun facts
+**1.** I am 16 years old.
 
-## Currently Working on
-FNAF-Terminal (C++) Obviously
+**2.** I am a Programmer, Game Porter, and (Unprofessional) Hacker.
+
+**3.** We can all agree Java and Javascript deserve to be put in the incinerator.
