@@ -13,3 +13,5 @@ Most Used ---> Least Used
 **3.** We can all agree Java and Javascript deserve to be put in the incinerator.
 
 **4.** I am a Polyglot programmer
+
+**5.** I am currently learning rust >:3
