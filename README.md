@@ -16,4 +16,4 @@ Most Used ---> Least Used
 
 **5.** I am currently learning rust >:3
 
-*6.** I own the Nexa language :D
+**6.** I own the Nexa language :D
